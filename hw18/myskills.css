@@ -1,0 +1,16 @@
+.flexContainer{
+    display: flex;
+    flex-direction: column;
+    width: 33%;
+    border: 2px solid rgb(44, 40, 40);
+    align-items: flex-start;
+    margin: 5px 5px 5px 5px;
+
+
+
+}
+
+.mySkills {
+    display: flex;
+    flex-direction: row;
+}
