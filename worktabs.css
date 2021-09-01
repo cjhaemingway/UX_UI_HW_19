@@ -1,0 +1,23 @@
+.black-bar {
+    align-items:flex-start
+    justify-content: space-around;
+    font-weight:50;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 5mm;
+    display: flex;
+    flex-direction: row;
+    border-color: black;
+
+}
+projects {
+    display: flex;
+    flex-direction: column;
+    border: black 3px;
+    align-contents: center;
+
+}
+
+#UXDesign {
+    border: black 3px;
+}
